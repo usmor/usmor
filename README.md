@@ -44,6 +44,10 @@ Built on a dataset of **330,000+ questions** from over **5,500 tournaments**.
 
 `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `React` `TypeScript` `Vite` `Mantine` `TanStack Query` `Zustand` `Railway`
 
+Current limitations:
+
+⚠️ No mobile version yet — the interface is optimized for desktop screens. Mobile responsiveness is in the roadmap.
+
 > 💡 A complete pet project showcasing end-to-end development: from asynchronous backend and database design to interactive React UI and cloud deployment.
 
 ---
