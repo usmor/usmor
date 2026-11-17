@@ -31,7 +31,7 @@ Languages: Russian (native) · English (C1) · French (B2)
 ### 🎲 CHGKuli
 
 🔗 [Demo](https://chgkuli.up.railway.app/)
-🔗 [Github] (https://github.com/usmor/CHGKuli)
+🔗 [Github](https://github.com/usmor/CHGKuli)
 
 A web application for playing "What? Where? When?" (a popular Russian intellectual quiz game).
 Built on a dataset of **200,000+ questions** from over **4,000 tournaments**.
